@@ -22,3 +22,4 @@ my_list = [0, 1, 5, 8, 20]
 print(binary_search(my_list, 20))
 
 # Binary search will take at most 3 steps to return the position of the element
+# Binary search needs log n operations to check a list of size n
